@@ -1,0 +1,43 @@
+h1{
+    color: red;
+    size: large;
+}
+
+h2{
+    color: rgb(48, 242, 4);
+    size: large;
+    font-style: italic;
+}
+
+u{
+    font-style: italic;
+   
+}
+
+ul{
+    color: brown;
+    letter-spacing: 5px;
+}
+
+
+h3{
+    color: brown;
+}
+
+.small{
+    font-size:xx-small;
+    color: brown;
+}
+
+.pra{
+    font-style: italic ; 
+    font-weight: bold;
+    color: brown;
+    
+}
+
+a{
+    background-color: yellow;
+    color: red;
+    text-decoration-line: none;
+}
